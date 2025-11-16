@@ -16,7 +16,7 @@ As an **AI enthusiast experimenting with next-generation development workflows**
 
 A practical volleyball event registration platform that's actively being used. This project showcases my ability to build real-world applications that solve actual problems.
 
-[View Project]([https://gameonvb.cz/])
+[View Project](https://gameonvb.cz/)
 
 ---
 
@@ -39,7 +39,6 @@ A practical volleyball event registration platform that's actively being used. T
 - 🍔 Eats everything without gaining weight
 
 ---
-
 ### 📫 Connect With Me
 
 - **Email:** [toho0036@gmail.com]
